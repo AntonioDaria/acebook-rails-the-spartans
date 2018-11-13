@@ -1,5 +1,5 @@
 
-Fluffy-Pig (Acebook) Readme
+Acebook Readme
 -----
 
 Project Description:
@@ -39,21 +39,17 @@ How to Run Locally:
 
 Instructions for Testing:
   - Run RSpec
-
+  
 Instructions for Contributions:
-  - www.justgiving.com/fluffy-pig-fund
-
-Real Instructions for Contributions:
   - Repeat all installation instructions.
   - Think of some new Features
   - Implement them.
   - Use TDD at all times.
-  - If overwhelmed, hold fluffy-pig. Do not open. It is a waste of time and it doesn't like it.
   
 How to Deploy:
   - Acebook The Spartans master branch is automatically deployed on Heroku, providing all RSpec tests pass Travis CI's rigorous testing procedure.
   - This is the link https://acebook-the-spartans.herokuapp.com/users/sign_in
-  - For log-in details and further information on Heroku deployment, contact your local Team Spartan team member, or TSTM for short.
+ 
 
 Team Spartan's Team Blog (TSTB)
   - https://medium.com/@makersteamspartan
@@ -61,7 +57,6 @@ Team Spartan's Team Blog (TSTB)
 Technologies Used in The Production of Acebook; in order of appearance:
   - Rails with Active Record
   - Devise
-  - Fluffy-Pig
   - Database Cleaner
   - Detective Travis CI
   - Capybara
@@ -72,13 +67,12 @@ Technologies Used in The Production of Acebook; in order of appearance:
   - Rubocop
   
 Other things:
-Here is a wonderful diagram:
+Application interaction model
 [AcebookModel.pdf](https://github.com/makersacademy/acebook-rails-template/files/2531053/AcebookModel.pdf)
 
-Cast, in order of Importance:
-  - Florence Hapgood / Nic Giles 
-  - Everyone else (Antonio D'aria & Aidan Faria)
-  - This if of course a joke and all team members are vital to Team Sparta.
+Cast:
+  - Florence Hapgood / Nic Giles / Antonio D'aria / Aidan Faria
+
   
   
 
